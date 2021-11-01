@@ -3,7 +3,7 @@ SYMBOLS = ("X", "O")
 COMP_NAMES = [
     "R2D2",
     "C3PO",
-    "WALLE",
+    "WALL-E",
     "DALEK",
 ]
 
