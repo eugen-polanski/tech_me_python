@@ -43,7 +43,7 @@ def game_end(step_num, winner):
 
 def log_fun_cycle():
     log = open('log_file', 'a', encoding='UTF-8')
-    game_step = f"Ход {step_num}Игрока: {user['name']}"
+    game_step = f"Ход {step_num} Игрока: {user['name']}"
     log.write(game_step)
     log.close()
 
